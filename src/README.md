@@ -1,6 +1,6 @@
 # Studying Docker
 
-Dockerfile container image mountage.
+Dockerfile container image montage.
 
 ## Getting started
 
